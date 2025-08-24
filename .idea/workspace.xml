@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60c9893a-8f62-450f-b3f7-b165571577b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/library.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-frontend/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/example/library/LibraryBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/example/library/controller/BookController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/example/library/model/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/example/library/model/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/example/library/model/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/example/library/service/LibraryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/test/java/com/example/library/LibraryBackendApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="31XrC2qgaraPMH6QPfr2Ph1zBl8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LibraryBackendApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Thrupthi/Downloads/library",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="LibraryBackendApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.library.LibraryBackendApplication" />
+      <module name="library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LibraryBackendApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60c9893a-8f62-450f-b3f7-b165571577b6" name="Changes" comment="" />
+      <created>1755681126338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755681126338</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
